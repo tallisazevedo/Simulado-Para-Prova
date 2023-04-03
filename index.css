@@ -24,12 +24,11 @@ body {
 }
 
 div.botao {
-  margin: 2% auto;
-  display: block;
-  text-align: center;
-  border: none;
-  font-size: 24px;
-  width: 60%;
+    border: none;
+    margin: 2% auto;
+    display: block;
+    text-align: center;
+    padding: 10px;
 }
 
 
